@@ -78,8 +78,3 @@ http://www.jowel.com
  [facebook][facebooklink]
 
  [facebooklink]:http://www.facebook.com/ij1436
-
- # image
- ![me](./me.jpg)
-
- 😊
