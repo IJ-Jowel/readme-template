@@ -65,16 +65,3 @@ background-color:red;
 |jowel|jowlemahi2@gmail.com|
 |mahi|mahi@gmail.com|
 
-# Automatic link
-http://www.jowel.com
-
-# Disable link
-`http://www.jowel.com`
-
-## Markdown link syntax
-
-[jowel](http://www.jowel.com)
-
- [facebook][facebooklink]
-
- [facebooklink]:http://www.facebook.com/ij1436
